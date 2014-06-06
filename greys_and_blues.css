@@ -1,7 +1,7 @@
 body .messages,
 body .message .meta {
     background-color: #EFEFEF !important;
-    border-color: $F6F6F6 !important;
+    border-color: #F6F6F6 !important;
     color: #616161 !important;
 }
 body .messages {
